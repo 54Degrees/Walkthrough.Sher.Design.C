@@ -46,7 +46,7 @@ var APP_DATA = {
         {
           "yaw": -0.020809410130473438,
           "pitch": 1.3994347240459977,
-          "title": "Created by 54 Degrees Design",
+          "title": "<div><a href="www.54degreesdesign.com">Created by 54 Degrees Design</a></div>",
           "text": "<div>109 Maydown Road</div><div>Dungannon</div><div>BT71 7LJ</div><div><br></div><div>07484 786050</div><div><br></div><div>info@54DegreesDesign.com</div><div><br></div><div>www.54DegreesDesign.com</div>"
         },
         {
